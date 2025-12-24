@@ -24,6 +24,7 @@
   - Accuracy：0.74641（Kaggle Public Score）
 ※ 改善後モデル（titanic_improved.ipynb）については、現在作成中であり、完成後に追記する。
 ## リポジトリ構成
+```
 data_analysis/
 ├─README.md           ← リポジトリ全体の説明
 ├─ notebooks/
@@ -31,4 +32,6 @@ data_analysis/
 │     ├─ titanic_baseline.ipynb
 │     └─ titanic_improved.ipynb
 │     └─ README.md    ← kaggle_titanic内の説明
+└─ .gitignore
+```
 ## 今後の改善
