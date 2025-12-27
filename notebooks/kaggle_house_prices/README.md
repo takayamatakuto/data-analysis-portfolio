@@ -19,21 +19,6 @@
   - RMSE：0.14555（Kaggle Public Score）
 - **Improved（house_prices_improved.ipynb）**
   - RMSE：0.13902（Kaggle Public Score）
-## リポジトリ構成
-```
-data_analysis/
-├─README.md           ← リポジトリ全体の説明
-├─ notebooks/
-│  └─ kaggle_titanic/
-│     ├─ titanic_baseline.ipynb
-│     └─ titanic_improved.ipynb
-│     └─ README.md    ← kaggle_titanic内の説明
-│  └─ kaggle_house_prices/
-│     ├─ house_prices_baseline.ipynb
-│     └─ house_prices_improved.ipynb
-│     └─ README.md    ← kaggle_house_prices内の説明
-└─ .gitignore
-```
 ## 今後の改善
 本分析では、自力でのモデル構築と無理の無い応用を重視し、比較的シンプルな構成で線形回帰モデルを構築した。  
 一方で、以下のような改善余地があると考えている。
